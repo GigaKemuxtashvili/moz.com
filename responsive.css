@@ -1,0 +1,60 @@
+@media screen and (max-width:768px) {
+    .image-div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media screen and (max-width:768px) {
+    .page-section {
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:768px) {
+    .third-btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 20%;
+    }
+}
+@media screen and (max-width:768px) {
+    .main-div-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+@media screen and (max-width:768px) {
+    .wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:768px) {
+    .input-div-main {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+    }
+}
+@media screen and (max-width:768px) {
+    .input-div {
+        margin-bottom: 30px;
+        margin: auto;
+    }
+}
+@media screen and (max-width:768px) {
+    .btn-yellow {
+        margin-top: 20px;
+    }
+}
